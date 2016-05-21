@@ -52,11 +52,6 @@
          <artifactId>${swt.artifactId}</artifactId>
          <version>${swt.version}</version>
       </dependency>
-      <dependency>
-         <groupId>net.java.dev.jna</groupId>
-         <artifactId>jna</artifactId>
-         <version>4.2.2</version>
-      </dependency>
    </dependencies>
    <properties>
       <swt.version>4.5.2</swt.version>
